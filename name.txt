@@ -9,3 +9,5 @@ name a1;
 name dev1;
 name gai1;
 name buggia;
+name 1;
+name bug;
